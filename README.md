@@ -19,5 +19,11 @@
 - Webkit is used to make it compatible with all the browsers out there.
 
 * * *
-
+### Hard Mode:
 ![screenshot](image/game.png)
+* * *
+### Easy Mode:
+![Screenshot2](image/easy.png)
+* * * 
+### Color dissappearing when the wrong color is clicked!
+![screenshot3](image/dissapper.png) 
