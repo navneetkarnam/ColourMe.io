@@ -26,4 +26,4 @@
 ![Screenshot2](image/easy.png)
 * * * 
 ### Color dissappearing when the wrong color is clicked!
-![screenshot3](image/dissapper.png) 
+![screenshot3](image/disappear.png) 
